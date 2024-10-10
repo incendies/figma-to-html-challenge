@@ -1,0 +1,17 @@
+{
+    "name": "form-pages-landing",
+    "version": "1.0.0",
+    "description": "Landing page for Form Pages",
+    "main": "index.js",
+    "scripts": {
+      "start": "vite",
+      "build": "vite build",
+      "sass": "sass scss/main.scss:css/main.css --watch"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "sass": "^1.62.1",
+      "vite": "^4.3.5"
+    }
+  }
