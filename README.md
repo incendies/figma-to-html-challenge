@@ -3,6 +3,9 @@
 ## Overview
 This project is a landing page challenge for Awesomemotive company, designed to improve form conversions by providing custom, distraction-free form landing pages. The page includes features, testimonials, and a video section to enhance user engagement.
 
+![Landing Page Screenshot](/figma-to-html-challenge.png)  <!-- Update the path to your screenshot -->
+
+
 ## Features
 - **Distraction-Free Landing Pages**: Create custom landing pages without distractions.
 - **Multiple Styles**: Choose from various styles and color schemes.
