@@ -28,7 +28,7 @@ This project is a landing page challenge for Awesomemotive company, designed to 
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/incendies/figma-to-html-challenge
    ```
 2. Navigate to the project directory:
    ```
